@@ -50,7 +50,7 @@
                                     <li><a href="<?php echo $PAGE_PATH;?>gallery.php">Gallery</a></li>
                                 </ul>
                             <li><a class="drop" href="#">Q & A</a></li>
-                            <li><a class="drop" href="#">Notice</a></li>
+                            <li><a class="drop" href="<?php echo $PAGE_PATH;?>board/list.php">Notice</a></li>
                         </ul>
                     </nav>
                 </header>
